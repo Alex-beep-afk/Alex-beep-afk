@@ -22,4 +22,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alex-beep-afk&show_icons=true&locale=en&layout=compact" alt="alex-beep-afk" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alex-beep-afk&show_icons=true&theme=tokyonight&locale=en" alt="alex-beep-afk" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=alex-beep-afk&show_icons=true&theme=tokyonight&locale=en" alt="alex-beep-afk" /></p>
