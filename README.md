@@ -1,4 +1,4 @@
-<p><img align="center" src="https://imgur.com/s4PKfdC"/></p>
+<p><img align="center" src="https://i.imgur.com/s4PKfdC.png"/></p>
 <h1 align="center">Hi 👋, I'm Alexandre Prigent</h1>
 <h3 align="center">A junior back-end developper who just ask to learn and work</h3>
 
